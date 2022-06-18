@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* .pokedex_cards{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+} */
+
+.cards{
+  margin: 5px 5px;
+  border: 1px solid black;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius:5px
+}
